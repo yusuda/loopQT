@@ -1,6 +1,9 @@
 # loopQT
 A public repository for developing and distributing loopQT
 
+# What is loopQT?
+A simple applet for replaying only a part of movie files repeatedly
+
 # licences
 You can use, edit or redistribute freely without any permissions.
 The original author have no responsibilities on edited versions.
